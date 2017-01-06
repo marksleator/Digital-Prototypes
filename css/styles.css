@@ -1,0 +1,147 @@
+html{
+    overflow-x: hidden;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    height: 15em;
+    width: 15em;
+    background: #ed1846;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    overflow: hidden;
+    margin: 0 auto;
+    top: -8em;
+    position: relative;
+    }
+
+#monogram{
+    top: 5em;
+    left: 35%;
+    margin: 0 auto;
+    position: relative;
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg);
+}
+
+#title{
+    padding: 4em;
+    width: 40%;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    color: #15032d;
+    font-size: 2.2em;
+}
+
+#title h1{
+    margin: 0;
+}
+
+#title h3{
+    margin: 0.5em 0 0 0;
+    width: 80%;
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+    color: #15032d;
+}
+
+
+#line{
+    height: 130em;
+    width: 130em;
+    background: #fff;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    overflow: hidden;
+    left: 20.5em;
+    float: right;
+    position: absolute;
+    display: inline;
+    border: 0.2em solid #ed1846;
+}
+
+#portrait{
+    height: 15em;
+    width: 15em;
+    background: #ed1846;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    overflow: hidden;
+    float: right;
+    position: relative;
+    display: inline;
+    left: -71em;
+    }
+
+#container{
+    position: absolute;
+        
+}
+
+#container p{
+    font-family: 'Oswald', sans-serif;
+    color: #15032d;
+    width: 15%;
+    transform: rotate(-45deg);
+     -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    display: inline-block;
+    left: 57em;
+    top: -6em;
+    position: relative;
+    line-height: 1.3em;
+}
+
+#background_one{
+    height: 120em;
+    width: 120em;
+    background: #15032d;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    overflow: hidden;
+    margin: 0 auto;
+    top:3em;
+    left: 20em;
+    position: relative;
+    
+    }
+
+#background_two{
+    height: 130em;
+    width: 130em;
+    background: #ed1846;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    overflow: hidden;
+    margin: 0 auto;
+    top:-50em;
+    left: -70em;
+    position: relative;
+    
+    }
+
+#about h1{
+    font-family: 'Oswald', sans-serif;
+    color: #15032d;
+    font-size: 4.5em;
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg);
+    top: 7.8em;
+    position: absolute;
+    margin: 0;
+}
