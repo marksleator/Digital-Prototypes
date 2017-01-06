@@ -1,0 +1,249 @@
+html{
+    overflow-x: hidden;
+}
+
+body{
+    margin-bottom: -2600px;
+    overflow: hidden;
+}
+
+#logo{
+    height: 15em;
+    width: 15em;
+    background: #ed1846;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    overflow: hidden;
+    margin: 0 auto;
+    top: -8em;
+    position: relative;
+    }
+
+
+#monogram{
+    top: 5em;
+    left: 35%;
+    margin: 0 auto;
+    position: relative;
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Chrome, Safari, Opera */
+    transform: rotate(-45deg);
+}
+
+#title{
+        margin: 15em auto;
+        width: 900px;
+        text-align: center;
+}
+
+#title h1{
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    margin-bottom: 1em;
+    font-size: 7rem;
+    }
+
+
+
+#title h3{
+    font-family: 'EB Garamond', serif;
+    color: #fff;
+    margin: 0 auto;
+    width: 600px;
+    font-size: 4rem;
+    font-weight: 300;
+}
+
+
+
+
+#portrait{
+    height: 14em;
+    width: 14em;
+    background: #ed1846;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    margin: 6em auto;
+    
+    
+    }
+
+.heading{
+    margin: 0 auto;
+    width: 175px;
+}
+
+.heading h1{
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    font-size: 4em;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+
+.shape {
+    width:1600px;
+    margin:0 auto;
+    margin-top: -135em;
+    
+}
+.top {
+    height:0;
+    border-width: 0 0px 1600px 1600px;
+    border-style:solid;
+    border-color:transparent #15032d #15032d transparent;
+}
+.bottom {
+    height:0;
+    border-width: 0px 1600px 1600px 0px;
+    border-style:solid;
+    border-color: transparent #15032d ;
+}
+
+.shape_two {
+    width:1600px;
+    margin:0 auto;
+    position: relative;
+    top: -110em;
+    z-index: 0;
+    display: inline;
+}
+.top_two {
+    height:0;
+    border-width: 1600px 0px 0px 1600px;
+    border-style:solid;
+    border-color:transparent #ed1846;
+}
+.bottom_two {
+    height:0;
+    border-width: 1600px 1600px 0px 0px;
+    border-style:solid;
+    border-color: #ed1846 transparent ;
+}
+
+
+
+#skills{
+    padding: 4em 0;
+    width: 100%;
+    position: absolute;
+    top:100em;
+    z-index: 1;
+}
+
+#skills_two{
+    padding: 15%;
+}
+
+.example{
+    height: 12em;
+    width: 12em;
+    margin: 0 auto;
+    
+}
+
+.example img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+h5{
+    text-align: center;
+    color: #fff;
+}
+
+.example_text{
+    width: 75%;
+    margin: 5% auto;
+    padding: 5%;
+}
+
+.example_text p{
+    color: #fff;
+   text-align: center;
+    margin: 5% 0 0 0 ;
+    
+}
+
+.example_container{
+    width: 33%;
+    float: left;
+    margin: 6% 0% 0 0;
+}
+
+.heading_two{
+    text-align: center;
+    position: relative;
+    top: -115em;
+}
+
+.heading_two h1{
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    font-size: 4.5em;
+}
+
+.style_two{
+	border-top: 5px solid #fff;
+    padding: 0 0 15% 0;
+    margin: 0 auto;
+    width: 18%;
+    
+}
+
+#container_two{
+    width: 100%;
+}
+
+#contact_container{
+    margin: 0 auto;
+    width: 350px;
+    position: relative;
+    top: -115em;
+    
+}
+
+#contact_container h5{
+    text-align: left;
+    
+    }
+
+#contact_container img{
+    float: left;
+    margin: 0.2em 1em 0 1em;
+}
+
+
+
+#icon_container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 10%;
+    position: relative;
+    top: -110em;
+}
+
+#icon_container a{
+    margin: 5%;
+}
+
+#logo_two{
+    height: 8em;
+    width: 8em;
+    border: 2px #15032d solid;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+    
+    margin: 0 auto;
+    top: -30em;
+    position: relative;
+}
+
